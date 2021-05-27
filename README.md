@@ -13,7 +13,7 @@ window.snake.pride(
   orientation2 // optional
 );
 ```
-#### orientations are
+#### Supported Orientations:
 - gay/homo/homosexual/pride/lgbt/lgbtq/lgbtq+/lgbtqia+/alphabet mafia
 - bi/bisexual
 - trans/transgender
