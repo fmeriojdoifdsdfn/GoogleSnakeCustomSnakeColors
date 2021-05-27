@@ -66,4 +66,4 @@ window.snake.customColor({
 });
 ```
 
-### <3 Fishes
+# <3 Fishes
