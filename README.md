@@ -66,4 +66,5 @@ window.snake.customColor({
 });
 ```
 
-## <3 Fishes
+## Contributors
+* fishes <3
