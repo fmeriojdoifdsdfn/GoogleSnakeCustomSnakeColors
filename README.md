@@ -9,8 +9,8 @@ Paste the code from `customColors.js` into the console.
 Paste into the console:
 ```
 window.snake.pride(
-  orientation1,
-  orientation2 // optional
+  orientation1 = string, // string, the first orientation
+  orientation2 = string, // string, the second orientation, optional
 );
 ```
 #### Supported Orientations:
