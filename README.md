@@ -5,20 +5,51 @@ Custom Colors for the Snakes
 paste the code from `customColors.js` into the console
 
 ## Enable a Flag
+  ### specific flags
 paste into the console:
 ```
-window.snake.flag(
-  '#rrggbb', // hex code, your first color
-  '#rrggbb', // hex code, your second color
-  '#rrggbb' // hex code, your third color
-); // you can have as many colors as you want in here, it can be fewer or more than three
+window.snake.pride(
+  orientation1,
+  orientation2
+);
+```
+#### orientations are
+- gay/homo/homosexual/pride/lgbt/lgbtq/lgbtq+/lgbtqia+/alphabet mafia
+- bi/bisexual
+- trans/transgender
+- pan/pansexual
+- asexual
+- aro/aromantic
+- intersex
+- lesbian
+- enby/non-binary/nonbinary
+
+  ### custom flags
+paste into the console:
+```
+window.snake.flag({
+  primary: [ // the flag for the used-to-be-rainbow snake
+    '#rrggbb', // hex code, the first color
+    '#rrggbb', // hex code, the second color
+    '#rrggbb', // hex code, the third color
+  ], // you can have as many colors as you want in here, it can be fewer or more than three
+  yinYang: [ // the flag for the second snake in yinyang mode
+    '#rrggbb', // hex code, the first color
+    '#rrggbb', // hex code, the second color
+    '#rrggbb', // hex code, the third color
+  ], // you can have as many colors as you want in here, it can be fewer or more than three
+}); 
 ```
 
 ## Other Custom Snakes
 paste into the console:
 ```
 window.snake.customColor({
-  gradient: [ // the color for all snakes but the rainbow one, optional
+  gradient: [ // the gradient for the blue snake, optional
+    '#rrggbb', // the first color of the gradient
+    '#rrggbb', // the second color of the gradient
+  ],
+  gradientYinYang: [ // the gradient for the orange snake, optional
     '#rrggbb', // the first color of the gradient
     '#rrggbb', // the second color of the gradient
   ],
