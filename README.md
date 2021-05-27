@@ -10,7 +10,7 @@ paste into the console:
 ```
 window.snake.pride(
   orientation1,
-  orientation2
+  orientation2 // optional
 );
 ```
 #### orientations are
