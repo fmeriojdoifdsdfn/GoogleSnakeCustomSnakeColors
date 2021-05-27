@@ -1,12 +1,12 @@
-# CustomSnakeColors
+# Custom Snake Colors
 Custom Colors for the Snakes 
 
 ## Enable the Mod
-paste the code from `customColors.js` into the console
+Paste the code from `customColors.js` into the console.
 
 ## Enable a Flag
-### specific flags
-paste into the console:
+### Specific Flags
+Paste into the console:
 ```
 window.snake.pride(
   orientation1,
@@ -24,8 +24,8 @@ window.snake.pride(
 - lesbian
 - enby/non-binary/nonbinary
 
-### custom flags
-paste into the console:
+### Custom Flags
+Paste into the console:
 ```
 window.snake.flag({
   primary: [ // the flag for the used-to-be-rainbow snake
@@ -42,7 +42,7 @@ window.snake.flag({
 ```
 
 ## Other Custom Snakes
-paste into the console:
+Paste into the console:
 ```
 window.snake.customColor({
   gradient: [ // the gradient for the blue snake, optional
