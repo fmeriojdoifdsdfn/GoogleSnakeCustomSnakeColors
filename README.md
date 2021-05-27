@@ -5,7 +5,7 @@ Custom Colors for the Snakes
 paste the code from `customColors.js` into the console
 
 ## Enable a Flag
-  ### specific flags
+### specific flags
 paste into the console:
 ```
 window.snake.pride(
@@ -24,7 +24,7 @@ window.snake.pride(
 - lesbian
 - enby/non-binary/nonbinary
 
-  ### custom flags
+### custom flags
 paste into the console:
 ```
 window.snake.flag({
