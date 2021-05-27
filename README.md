@@ -1,8 +1,11 @@
 # CustomSnakeColors
 Custom Colors for the Snakes 
 
+## Enable the Mod
+paste the code from `customColors.js` into the console
 
 ## Enable a Flag
+paste into the console:
 ```
 window.snake.flag(
   '#rrggbb', // hex code, your first color
@@ -12,6 +15,7 @@ window.snake.flag(
 ```
 
 ## Other Custom Snakes
+paste into the console:
 ```
 window.snake.customColor({
   gradient: [ // the color for all snakes but the rainbow one, optional
