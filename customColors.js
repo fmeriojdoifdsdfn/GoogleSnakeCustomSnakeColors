@@ -114,7 +114,7 @@ window.snake.pride = function(ori = 'gay', ori2 = '') {
 			primary = [ '#3AA63F', '#A8D47A', '#FFFFFF', '#AAAAAA', '#000000', ];
 			break;
 		case 'intersex':
-			primary = [ '#FFDA00', '#7A00AC'];
+			primary = [ '#FFDA00', '#7A00AC', ];
 			break;
 		case 'lesbian':
 			primary = [ '#D62900', '#FF9B55', '#FFFFFF', '#D461A6', '#A50062', ];
@@ -125,7 +125,7 @@ window.snake.pride = function(ori = 'gay', ori2 = '') {
 			primary = [ '#000000', '#fff433', '#ffffff', '#9b59d0', ];
 			break;
 		default:
-			primary = [ '#000000', ];
+			primary = [ '#ff5a00', ];
 			console.log('idk that one; if it actually exists and you didn\'t just type it wrong, dm me on dc');
 	}
 
@@ -164,7 +164,7 @@ window.snake.pride = function(ori = 'gay', ori2 = '') {
 			secondary = [ '#3AA63F', '#A8D47A', '#FFFFFF', '#AAAAAA', '#000000', ];
 			break;
 		case 'intersex':
-			secondary = [ '#FFDA00', '#7A00AC'];
+			secondary = [ '#FFDA00', '#7A00AC', ];
 			break;
 		case 'lesbian':
 			secondary = [ '#D62900', '#FF9B55', '#FFFFFF', '#D461A6', '#A50062', ];
@@ -175,7 +175,7 @@ window.snake.pride = function(ori = 'gay', ori2 = '') {
 			secondary = [ '#000000', '#fff433', '#ffffff', '#9b59d0', ];
 			break;
 		default:
-			secondary = [ '#000000', ];
+			secondary = [ '#0095ff', ];
 			console.log('idk that one; if it actually exists and you didn\'t just type it wrong, dm me on dc');
 	}
 
