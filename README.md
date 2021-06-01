@@ -2,7 +2,7 @@
 Custom Colors for the Snakes 
 
 ## Enable the Mod
-Paste the code from `customColors.js` into the console.
+Paste the code from `customColors.js` into the console
 
 ## Enable a Flag
 ### Specific Flags
