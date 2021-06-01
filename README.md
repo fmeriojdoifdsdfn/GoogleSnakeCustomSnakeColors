@@ -10,7 +10,7 @@ Paste into the console:
 ```
 window.snake.pride(
   orientation1 = string, // string, the first orientation
-  orientation2 = string, // string, the second orientation, optional
+  orientation2 = string, // string, the yin yang mode orientation, optional
 );
 ```
 #### Supported Orientations:
